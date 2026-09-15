@@ -1,16 +1,23 @@
-## Hi there 👋
+# Gabriel Bortoni
 
-<!--
-**gbortoni/gbortoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering @ UC San Diego
 
-Here are some ideas to get you started:
+Interested in ML systems, efficient inference, embedded ML, and robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on
+
+- ⚡ Transformer inference in C++ / GGML
+- 🤖 Edge AI deployment and optimization
+- 🚗 Robotics / autonomous systems
+- 🧠 ML inference performance and profiling
+
+### Tech
+
+C++ · Python · GGML · CMake · Git · Linux · ML Systems
+
+### Featured Project
+
+**Tiny GGML Transformer**
+A transformer inference implementation from scratch in C++ using GGML,
+built to understand tensor layouts, attention, memory behavior, and
+low-level inference.
