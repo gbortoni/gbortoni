@@ -21,3 +21,6 @@ C++ · Python · GGML · CMake · Git · Linux · ML Systems
 A transformer inference implementation from scratch in C++ using GGML,
 built to understand tensor layouts, attention, memory behavior, and
 low-level inference.
+
+**llama.cpp Inference Application**
+An application using llama.cpp to build an inference pipeline with any downloaded model from llama.cpp.
